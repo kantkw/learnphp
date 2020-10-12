@@ -13,8 +13,8 @@
         Gender: <select name="gender">
             <option value="M">Male</option>
             <option value="F">Female</option>
-        </select>
-        <br><input type="radio" name="role" value="Pupil" checked> Pupil<br>
+        </select><br>
+        <input type="radio" name="role" value="Pupil" checked> Pupil<br>
         <input type="radio" name="role" value="Teacher"> Teacher<br>
         <input type="radio" name="role" value="Admin"> Admin<br>
         <input type="submit" value="Add user"><br>
