@@ -4,7 +4,7 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="addUsers.php">
+    <form action="addUsers.php" method="post">
         First name: <input type="text" name="forename"><br>
         Last name: <input type="text" name="surname"><br>
         Password: <input type="password" name="pwd"><br>
