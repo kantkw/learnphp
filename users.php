@@ -17,6 +17,6 @@
         <input type="radio" name="role" value="Pupil" checked> Pupil<br>
         <input type="radio" name="role" value="Teacher"> Teacher<br>
         <input type="radio" name="role" value="Admin"> Admin<br>
-        <input type="submit" value="Add user"><br>
+        <input type="submit" value="Add user "><br>
 </body>
 </html>
