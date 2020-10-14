@@ -1,3 +1,2 @@
 # learnphp
-defrgthj
-jhgliugl;kjhgl
+Read me!
